@@ -2,10 +2,10 @@
 '* Script name: HijackerCleanup.vbs
 '* Created on:  3/26/2016
 '* Author:      Giorgio Rafaelle
-'* Purpose:     Recursively searches the current user subdirectories and restores
-'*              default shortcut targets for various web browsers, and
-'*              optionally restores select IE registry subkeys to their
-'*              default values.
+'* Purpose:     Recursively searches the current user directory and 
+'*              subdirectories for select web browser shortcuts and restores
+'*              their default targets, and optionally restores select IE registry
+'*              subkeys to their default values.
 '* History:     2/19/2017 updated comments, style asjustments
 '********************************************************************************
 
